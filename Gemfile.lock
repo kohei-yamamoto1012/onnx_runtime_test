@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.15.4)
+    mini_magick (4.11.0)
+    onnxruntime (0.6.5)
+      ffi
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  mini_magick
+  onnxruntime
+
+RUBY VERSION
+   ruby 3.0.2p107
+
+BUNDLED WITH
+   2.2.22
