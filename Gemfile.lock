@@ -5,6 +5,8 @@ GEM
     mini_magick (4.11.0)
     onnxruntime (0.6.5)
       ffi
+    ruby-vips (2.1.4)
+      ffi (~> 1.12)
 
 PLATFORMS
   x86_64-darwin-20
@@ -12,6 +14,7 @@ PLATFORMS
 DEPENDENCIES
   mini_magick
   onnxruntime
+  ruby-vips
 
 RUBY VERSION
    ruby 3.0.2p107
