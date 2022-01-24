@@ -39,3 +39,10 @@ yarn-debug.log*
 .idea
 # config/database.yml
 .DS_Store
+
+# Ignore Input Output Images
+/detect_objects/images
+/detect_objects/results
+/estimate_poses/images
+/estimate_poses/results
+
